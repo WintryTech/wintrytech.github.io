@@ -1,14 +1,14 @@
 - title:      App Security
-  description:  Development and utilization of encryption techniques, using high-end algorithms to secure your applications in the entire stack.		
+  description:  We have extensive experience in utilizing encryption techniques, using high-end algorithms to secure your applications throughout the entire stack.		
   fa-icon:      fa-object-group
   link:         
 
 - title:      Full-Stack Development
-  description:  Specialization in Angular, TypeScript, React and the Microsoft stack; including high-class exceptional expertise in C#, Microsoft Azure and the .NET Core framework.			
+  description:  We are experts in using the Angular, TypeScript, React frameworks and the Microsoft stack; having high-class, exceptional expertise in C#, Microsoft Azure and the .NET Core framework.			
   fa-icon:      fa-code
   link:         
 
-- title:      Testing
-  description:  Utilization of testing methodologies and tools, including end-to-end, unit and system integration testing.			
+- title:      App Testing
+  description:  We test your applications using different testing methodologies and tools; including end-to-end, unit and system integration testing.			
   fa-icon:      fa-paper-plane-o
   link:         
