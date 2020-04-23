@@ -1,0 +1,71 @@
+[
+  
+    {
+      "category" : "work",
+      "title"    : "Avocado Theme",
+      "description": "Bored of the same old website designs? Avocado theme presents a unique way to...",
+      "content": "Bored of the same old website designs? Avocado theme presents a unique way to...",
+      "url"      : "/blog/avocado-theme/",
+      "image"    : "/assets/images/thought-catalog-620865-unsplash.jpg",
+      "author"   : "john"
+    } 
+    ,
+  
+    {
+      "category" : "life, experience",
+      "title"    : "Be what you want to be!",
+      "description": "As in other arts, the definitions of amateur and professional are not entirel...",
+      "content": "As in other arts, the definitions of amateur and professional are not entirel...",
+      "url"      : "/blog/be-what-you-want-to-be/",
+      "image"    : "/assets/images/beautiful-2150881_1280.jpg",
+      "author"   : "john"
+    } 
+    ,
+  
+    {
+      "category" : "life, adventure",
+      "title"    : "Love whatever you like!",
+      "description": "Campanula is one of several genera in the family Campanulaceae with the commo...",
+      "content": "Campanula is one of several genera in the family Campanulaceae with the commo...",
+      "url"      : "/blog/love-what-you-like/",
+      "image"    : "/assets/images/round-leaved-bellflower-1576086_1280.jpg",
+      "author"   : "john"
+    } 
+    ,
+  
+    {
+      "category" : "life, work",
+      "title"    : "Do what you like!",
+      "description": "Yoga is a group of physical, mental, and spiritual practices or disciplines w...",
+      "content": "Yoga is a group of physical, mental, and spiritual practices or disciplines w...",
+      "url"      : "/blog/do-what-you-like/",
+      "image"    : "/assets/images/julia-caesar-15080-unsplash.jpg",
+      "author"   : "john"
+    } 
+    ,
+  
+    {
+      "category" : "life, travel",
+      "title"    : "Go wherever you like!",
+      "description": "Goa is a state in India within the coastal region known as the Konkan in Indi...",
+      "content": "Goa is a state in India within the coastal region known as the Konkan in Indi...",
+      "url"      : "/blog/go-wherever-you-like/",
+      "image"    : "/assets/images/ishan-seefromthesky-403804-unsplash.jpg",
+      "author"   : "john"
+    } 
+    ,
+  
+    {
+      "category" : "work, projects",
+      "title"    : "Learn whatever you want!",
+      "description": "Learning is the act of acquiring new or modifying and reinforcing existing kn...",
+      "content": "Learning is the act of acquiring new or modifying and reinforcing existing kn...",
+      "url"      : "/blog/learn-whatever-you-want/",
+      "image"    : "/assets/images/perfecto-capucine-758998-unsplash.jpg",
+      "author"   : "john"
+    } 
+    
+  
+]
+
+
