@@ -531,21 +531,7 @@ main {
     }
   }
 
-  .individual:hover {
-    background-color: lighten($brand-color, 20%);
-
-    li {
-      a {
-        color: white;
-      }
-    }
-
-    .name {
-      color: white;
-    }
-    .position {
-      color: white;
-    }
+  .individual:hover {    
     .team-image {
       -webkit-filter: greyscale(0);
       filter: grayscale(0);
