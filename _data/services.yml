@@ -1,14 +1,14 @@
-- title:      Web Design
-  description:  Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui quaerat fugit quas veniam perferendis repudiandae sequi, dolore quisquam illum? Eos autem natus et veniam perspiciatis.			
+- title:      App Security
+  description:  Development and utilization of encryption techniques, using high-end algorithms to secure your applications in the entire stack.		
   fa-icon:      fa-object-group
   link:         
 
-- title:      Web Development
-  description:  Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui quaerat fugit quas veniam perferendis repudiandae sequi, dolore quisquam illum? Eos autem natus et veniam perspiciatis.			
+- title:      Full-Stack Development
+  description:  Specialization in Angular, TypeScript, React and the Microsoft stack; including high-class exceptional expertise in C#, Microsoft Azure and the .NET Core framework.			
   fa-icon:      fa-code
   link:         
 
-- title:      Marketing
-  description:  Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui quaerat fugit quas veniam perferendis repudiandae sequi, dolore quisquam illum? Eos autem natus et veniam perspiciatis.			
+- title:      Testing
+  description:  Utilization of testing methodologies and tools, including end-to-end, unit and system integration testing.			
   fa-icon:      fa-paper-plane-o
   link:         
