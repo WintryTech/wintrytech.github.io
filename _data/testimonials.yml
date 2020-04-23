@@ -1,7 +1,11 @@
+- name: Microsoft MVP Award Team
+  comment: Recipient of the Microsoft Most Valuable Professional (MVP) award in 2019, Sirar joined an exceptional group of individuals from around the world who have demonstrated a willingness to reach out, share their technical expertise with others and help individuals maximize their use of technology.
+  image: /assets/images/ms.png
+
 - name: Marius Slette Johansen
-  comment: Sirar founded the «White Hat» hacker hub and helped increase the employees' skills of ethical hacking and application security at Making Waves.
+  comment: Sirar founded the «White Hat» hacker hub at Making Waves and helped increase our employees' knowledge of ethical hacking and application security.
   image: /assets/images/mw.png
   
 - name: Johs. Skeie
-  comment: As technical lead, Sirar was pro-active in his communication of plan, progress and deliveries in Waypoint at If P&C Insurance.
+  comment: In a technical leader role, Sirar was pro-active in his communication of plan, progress and deliveries in the Waypoint project at If P&C Insurance.
   image: /assets/images/if.png

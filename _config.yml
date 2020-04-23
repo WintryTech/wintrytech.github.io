@@ -18,9 +18,9 @@ author:
   name: Sirar Salih
   bio: "Sirar is Founder & CEO of Winterfell.tech"
   image: sirar.png # Choose a 200x200px image and place it inside /images directory.
-  facebook: https://facebook.com
-  twitter: https://twitter.com
-  quora: https://www.quora.com/
+  facebook: 
+  twitter: https://twitter.com/sirarsalih
+  quora: 
 
 # Kramdown is supported by Github
 markdown: kramdown
