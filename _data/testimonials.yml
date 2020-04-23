@@ -1,7 +1,7 @@
-- name: Jane Doe
-  comment: Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit!
-  image: /assets/images/rowan-chestnut-175871-unsplash.jpg
+- name: Marius Slette Johansen
+  comment: Sirar founded the «White Hat» hacker hub and helped increase the employees' skills of ethical hacking and application security at Making Waves.
+  image: /assets/images/mw.png
   
-- name: John Doe
-  comment: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga distinctio quod velit non ut est, vel doloribus officia eius natus.
+- name: Johs. Skeie
+  comment: Sirar was pro-active in his communication of plan, progress and deliveries at Waypoint, If P&C Insurance.
   image: /assets/images/brooke-cagle-274465-unsplash.jpg
