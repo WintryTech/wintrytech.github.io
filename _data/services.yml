@@ -1,4 +1,4 @@
-- title:      App Security
+- title:      Application Security
   description:  We have extensive experience in utilizing encryption techniques, using high-end algorithms to secure your applications throughout the entire stack.		
   fa-icon:      fa-object-group
   link:         
@@ -8,7 +8,7 @@
   fa-icon:      fa-code
   link:         
 
-- title:      App Testing
+- title:      Application Testing
   description:  We test your applications using different testing methodologies and tools; including end-to-end, unit and system integration testing.			
   fa-icon:      fa-paper-plane-o
   link:         
