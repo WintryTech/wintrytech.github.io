@@ -6,22 +6,20 @@
 # Almost all the things in the website can be customized from here.
 # Changing title and description according to your website requirement is important.
 #
-title: Winterfell.tech
+title: Wintry Tech AS
 description: 
-email: sirar.salih@winterfell.tech # The contact form submission will be done to this email address.
+email: sirar.salih@wintrytech.com # The contact form submission will be done to this email address.
 phone: +47 482 53 612
-twitter: https://twitter.com/Winterfell_tech
-linkedin: https://www.linkedin.com/company/winterfell-tech
-facebook: https://www.facebook.com/WinterfellT
-url: https://winterfell.tech
+twitter: https://twitter.com/WintryTech
+linkedin: https://www.linkedin.com/company/42762041
+url: https://wintrytech.com
 default-image: /assets/images/winterfelltech.png # This image will be shown on sharing any page on social media. For example: Homepage, about page etc. This image should be bigger than 200x200px. This image is not used for posts. Posts use their own image mentioned in individual posts.
 
 # Author details shows up at the end of every article
 author:
   name: Sirar Salih
-  bio: "Sirar is Founder & CEO of Winterfell.tech"
+  bio: "Sirar is Founder & CEO of Wintry Tech"
   image: sirar.png # Choose a 200x200px image and place it inside /images directory.
-  facebook: 
   twitter: https://twitter.com/sirarsalih
   quora: 
 
@@ -42,7 +40,7 @@ paginate: 4
 paginate_path: /blog/page:num/
 
 # Define titles for the sections
-name: Winterfell.tech
+name: Wintry Tech AS
 projects: I work
 
 # Jekyll will read contents inside _pages only if we tell it to

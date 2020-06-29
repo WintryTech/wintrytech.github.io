@@ -1,4 +1,4 @@
-# Winterfell.tech
+# WintryTech
 
 ```
 bundle exec jekyll serve
