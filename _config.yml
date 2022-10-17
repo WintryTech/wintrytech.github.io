@@ -14,7 +14,7 @@ twitter: https://twitter.com/WintryTech
 linkedin: https://www.linkedin.com/company/42762041
 facebook: https://www.facebook.com/WintryTech
 url: https://wintrytech.com
-default-image: /assets/images/wintrytech.png # This image will be shown on sharing any page on social media. For example: Homepage, about page etc. This image should be bigger than 200x200px. This image is not used for posts. Posts use their own image mentioned in individual posts.
+default-image: /assets/images/wt.png # This image will be shown on sharing any page on social media. For example: Homepage, about page etc. This image should be bigger than 200x200px. This image is not used for posts. Posts use their own image mentioned in individual posts.
 
 # Author details shows up at the end of every article
 author:
