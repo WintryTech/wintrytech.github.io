@@ -1,11 +1,11 @@
 - title: Our clients
   link: '/clients/'
   
-- title: About us
-  link: '/about/'
-
 - title: Our ambassadors
   link: '/communityambassadors/'
+
+- title: About us
+  link: '/about/'
   
 - title: Contact
   link: '/contact/'
