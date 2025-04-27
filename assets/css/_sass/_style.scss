@@ -493,46 +493,6 @@ main {
   z-index: 2;
 }
 
-.timeline-wrapper {
-  position: relative;
-  width: 90%;
-  margin: 0 auto;
-  text-align: center;
-}
-
-.timeline-label {
-  font-size: 1.2rem;
-  font-weight: bold;
-}
-
-.top-label {
- 
-}
-
-.bottom-label {
- 
-}
-
-.timeline {
-  position: relative;
-  margin: 0 auto;
-  padding: 10px 0;
-  width: 100%;
-  /* Timeline background line */
-}
-
-.timeline::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 50%;
-  width: 4px;
-  background: #ccc;
-  transform: translateX(-50%);
-}
-
-
 .content {
   position: relative;
   width: 50%;
