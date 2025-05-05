@@ -27,54 +27,53 @@
 	</div>
 </section>
 
-<section>
-	<div class="container">
-		<div class="row">
-			<div class="row text-center">
-				<div class="col-md-12">
-					<h2>Get in touch</h2>
-					<p>
-					<small>We are located in Oslo, Norway. Our services are offered to all parts of the world. In need of our services? Fill in your e-mail below and send us a message, we promise to get back to you.</small>
-					</p>
-				</div>
-			</div>
-			<div class="col-lg-4">
-				<div class="map">
-					<iframe
-					src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDyXXI3JutYX-iIOQKNaJHkzUdmbEfwOLI&q=Hellerud%20G%C3%A5rdsvei%2015,%200671%20Oslo+(Wintry%20Tech%20AS)&zoom=14"
-					width="100%"
-					height="600"
-					frameborder="0"
-					style="border:0;"
-					allowfullscreen=""
-					aria-hidden="false"
-					tabindex="0">
-				  </iframe>
-				</div>
-			</div>
-			<div class="col-lg-5" style="margin-top: -17px;">
-				<form
-				class="wj-contact"
-				action="https://formspree.io/{{site.email}}"
-				method="POST"
-				>
-				<input type="email" name="email" placeholder="Your E-mail Address" />
-				<textarea
-					type="text"
-					name="content"
-					rows="6"
-					placeholder="Message"
-				></textarea>
-				<input type="hidden" name="_next" value="<REDIRECTION LINK> " />
-				<input
-					type="hidden"
-					name="_subject"
-					value="New Contact Form Submission"
-				/>
-				<input type="text" name="_gotcha" style="display:none" />
-				<input class="btn" type="submit" value="Send" />
-				</form>
-			</div>
+<div class="row text-center">
+	<div class="col-md-12">
+		<h2>Get in touch</h2>
+		<p>
+		<small>We are located in Oslo, Norway. Our services are offered to all parts of the world. In need of our services? Fill in your e-mail below and send us a message, we promise to get back to you.</small>
+		</p>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-lg-2">
+	</div>
+	<div class="col-lg-4">
+		<div class="map">
+			<iframe
+			src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDyXXI3JutYX-iIOQKNaJHkzUdmbEfwOLI&q=Hellerud%20G%C3%A5rdsvei%2015,%200671%20Oslo+(Wintry%20Tech%20AS)&zoom=14"
+			width="100%"
+			height="600"
+			frameborder="0"
+			style="border:0;"
+			allowfullscreen=""
+			aria-hidden="false"
+			tabindex="0">
+		  </iframe>
 		</div>
 	</div>
-</section>
+	<div class="col-lg-5" style="margin-top: -17px;">
+		<form
+		class="wj-contact"
+		action="https://formspree.io/{{site.email}}"
+		method="POST"
+		>
+		<input type="email" name="email" placeholder="Your E-mail Address" />
+		<textarea
+			type="text"
+			name="content"
+			rows="6"
+			placeholder="Message"
+		></textarea>
+		<input type="hidden" name="_next" value="<REDIRECTION LINK> " />
+		<input
+			type="hidden"
+			name="_subject"
+			value="New Contact Form Submission"
+		/>
+		<input type="text" name="_gotcha" style="display:none" />
+		<input class="btn" type="submit" value="Send" />
+		</form>
+	</div>
+</div>
