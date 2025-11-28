@@ -19,7 +19,7 @@ default-image: /assets/images/wtr.png # This image will be shown on sharing any 
 author:
   name: Sirar Salih
   bio: "Sirar is Founder & CEO of Wintry Tech"
-  image: sirarsalih.jpg # Choose a 200x200px image and place it inside /images directory.
+  image: sirarsalih_new.jpg # Choose a 200x200px image and place it inside /images directory.
   twitter: https://x.com/sirarsalih
   quora: 
 
