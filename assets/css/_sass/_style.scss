@@ -475,6 +475,13 @@ main {
     text-align: center;
   }
 
+  @media (max-width: 991px) {
+    .team-container > div {
+      flex: 1 1 260px;
+      max-width: 100%;
+    }
+  }
+
   .team-image {
     -webkit-filter: greyscale(0.9);
     filter: grayscale(0.9);
