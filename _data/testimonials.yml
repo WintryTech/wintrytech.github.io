@@ -1,11 +1,15 @@
 - name: Microsoft MVP Award Team
-  comment: Recipient of the Microsoft Most Valuable Professional (MVP) award in 2019, Sirar joined an exceptional group of individuals from around the world who have demonstrated a willingness to reach out, share their technical expertise with others and help individuals maximize their use of technology.
+  comment: Recipient of the Microsoft Most Valuable Professional (MVP) award in 2019, Sirar Salih joined an exceptional group of individuals from around the world who have demonstrated a willingness to reach out, share their technical expertise with others and help individuals maximize their use of technology.
   image: /assets/images/ms.png
 
-- name: Marius S. Johansen, Head of Platforms & Services, Making Waves
-  comment: Sirar founded the «White Hat» hacker hub at Making Waves and helped increase our employees' knowledge of ethical hacking and application security.
+- name: Marius S. Johansen, Head of Platforms & Services, Making Waves AS
+  comment: Sirar Salih founded the «White Hat» hacker hub at Making Waves AS and helped increase our employees' knowledge of ethical hacking and application security.
   image: /assets/images/mw.png
   
 - name: Johs. Skeie, Senior HR Consultant, If P&C Insurance
-  comment: In a technical leader role, Sirar was pro-active in his communication of plan, progress and deliveries in the Waypoint project at If P&C Insurance.
+  comment: In a technical leader role, Sirar Salih was pro-active in his communication of plan, progress and deliveries in the Waypoint project at If P&C Insurance.
   image: /assets/images/if.png
+
+- name: Dilhara Wickramasinghe, Software Developer Intern, Wintry Tech AS
+  comment: My six-month internship at Wintry Tech AS gave me hands-on experience working on an in-house project using .NET/C#. With a BSc and MSc academic background in Cybersecurity and Information Systems, this role helped me strengthen my back-end development skills, problem-solving, teamwork, and understanding of real-world software development. I also really appreciated the welcoming and supportive work culture, which made it easy to learn, ask questions, and grow throughout the internship.
+  image: /assets/images/dilharaw.jpg
