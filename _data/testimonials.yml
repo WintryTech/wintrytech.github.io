@@ -13,3 +13,23 @@
 - name: Dilhara Wickramasinghe, Software Developer Intern, Wintry Tech AS
   comment: My six-month internship at Wintry Tech AS gave me hands-on experience working on an in-house project using .NET/C#. With a BSc and MSc academic background in Cybersecurity and Information Systems, this role helped me strengthen my back-end development skills, problem-solving, teamwork, and understanding of real-world software development. I also really appreciated the welcoming and supportive work culture, which made it easy to learn, ask questions, and grow throughout the internship.
   image: /assets/images/dilharaw.jpg
+
+- name: Kevin Hansen, Software Architect
+  comment: I hired Wintry Tech AS to perform a secure code review of a .NET and JavaScript project for a customer, as well as the whitebox part of a pentest. The work delivered was rock solid, thorough and delivered in record time.
+  image: /assets/images/kevinhansen.png
+
+- name: Anwar Aatif, Enterprise Architect, Microsoft Norway
+  comment: I have had the pleasure of working with Sirar Salih at Wintry Tech AS on two different projects. The first project was in collaboration with a public company to contribute to a nationwide application. The second project was recently, where we completed the mobile development of an application. In both cases, Sirar Salih has delivered excellent results. He is very solution-oriented and always delivers with high quality. I have no qualms about using him for future development assignments.
+  image: /assets/images/ms.png
+
+- name: Danh Nguyen, Principal Consultant, Consid AS
+  comment: Worked together with Sirar Salih from Wintry Tech AS at the Norwegian Police ICT Services previously. He has high full-stack expertise, especially with front-end. I remember that I received good help from him on several occasions when my head hit the wall. Pro-active and at the same time very nice and helpful person.
+  image: /assets/images/consid.jpg
+
+- name: Nima Saminasab, Software Developer Intern, Wintry Tech AS
+  comment: Great place to work. Highly recommended.
+  image: /assets/images/nimasaminasab.jpg
+
+- name: Petter Olsen, Software Developer
+  comment: Sirar Salih is very pleasant and competent. I would be happy to work with him again on a future occasion.
+  image: /assets/images/petterolsen.png
