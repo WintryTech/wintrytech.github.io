@@ -1,6 +1,10 @@
 - name: Microsoft MVP Award Team
   comment: Recipient of the Microsoft Most Valuable Professional (MVP) award in 2019, Sirar Salih joined an exceptional group of individuals from around the world who have demonstrated a willingness to reach out, share their technical expertise with others and help individuals maximize their use of technology.
-  image: /assets/images/ms.png
+  image: /assets/images/mvp.png
+
+- name: Anwar Aatif, Enterprise Architect, Microsoft Norway
+  comment: I have had the pleasure of working with Sirar Salih from Wintry Tech AS on two different projects. The first project was in collaboration with a public company to contribute to a nationwide application. The second project was recently, where we completed the mobile development of an application. In both cases, Sirar Salih has delivered excellent results. He is very solution-oriented and always delivers with high quality. I have no qualms about using him for future development assignments.
+  image: /assets/images/ms2.png
 
 - name: Marius S. Johansen, Head of Platforms & Services, Making Waves AS
   comment: Sirar Salih founded the «White Hat» hacker hub at Making Waves AS and helped increase our employees' knowledge of ethical hacking and application security.
@@ -17,10 +21,6 @@
 - name: Kevin Hansen, Software Architect
   comment: I hired Wintry Tech AS to perform a secure code review of a .NET and JavaScript project for a customer, as well as the whitebox part of a pentest. The work delivered was rock solid, thorough and delivered in record time.
   image: /assets/images/kevinhansen.png
-
-- name: Anwar Aatif, Enterprise Architect, Microsoft Norway
-  comment: I have had the pleasure of working with Sirar Salih from Wintry Tech AS on two different projects. The first project was in collaboration with a public company to contribute to a nationwide application. The second project was recently, where we completed the mobile development of an application. In both cases, Sirar Salih has delivered excellent results. He is very solution-oriented and always delivers with high quality. I have no qualms about using him for future development assignments.
-  image: /assets/images/ms.png
 
 - name: Danh Nguyen, Principal Consultant, Consid AS
   comment: Worked together with Sirar Salih from Wintry Tech AS at the Norwegian Police ICT Services previously. He has high full-stack expertise, especially with front-end. I remember that I received good help from him on several occasions when my head hit the wall. Pro-active and at the same time very nice and helpful person.
