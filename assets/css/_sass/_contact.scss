@@ -35,7 +35,7 @@ form.wj-contact {
     outline: none;
     color: white;
     padding: 8px 25px;
-    background-color: #1D326B;
+    background-color: #25a0f2;
     margin: 0.25em 0 0 0;
     cursor: pointer;
   }
@@ -45,7 +45,7 @@ form.wj-contact {
   iframe {
     height: 300px;
     width: 100%;
-    border: 2px solid #1D326B;
+    border: 2px solid #25a0f2;
   }
 
   @include media-query($on-palm) {
