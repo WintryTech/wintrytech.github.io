@@ -12,13 +12,14 @@ email: sirar.salih@wintrytech.com # The contact form submission will be done to 
 twitter: https://x.com/wintrytech
 linkedin: https://www.linkedin.com/company/wintrytech
 facebook: https://www.facebook.com/wintrytech
+github: https://github.com/wintrytech
 url: https://wintrytech.com
 default-image: /assets/images/wt2_transparent.png # This image will be shown on sharing any page on social media. For example: Homepage, about page etc. This image should be bigger than 200x200px. This image is not used for posts. Posts use their own image mentioned in individual posts.
 
 # Author details shows up at the end of every article
 author:
   name: Sirar Salih
-  bio: "Sirar is Founder & CEO of Wintry Tech"
+  bio: "Sirar Salih is Founder & CEO of Wintry Tech"
   image: sirarsalih_new.jpg # Choose a 200x200px image and place it inside /images directory.
   twitter: https://x.com/sirarsalih
   quora: 
